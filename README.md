@@ -33,10 +33,10 @@ company: Soulber
 fields_of_interests:
   [
     "Web Development",
+    "Embedded Systems",
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
     "DevOps",
   ]
 technical_background:
