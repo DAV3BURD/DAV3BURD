@@ -62,5 +62,5 @@ hobbies: ["Movies", "Gym", "Running", "Art", "Comedy"]
 </p>
 
 <p align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Have%20a%20lovely%20day!&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Have%20a%20lovely%20day!&section=footer&theme="tokyonight"/>
 </p>
