@@ -61,6 +61,4 @@ hobbies: ["Movies", "Gym", "Running", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<p align="center">
-[  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Have%20a%20lovely%20day!&section=footer)</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Have%20a%20lovely%20day!&section=footer)
