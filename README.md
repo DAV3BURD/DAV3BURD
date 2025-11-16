@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=400&color=color=0:EEFF0%200,100:a82da8&text=WELCOME!&fontSize=70&animation=twinkling&reversal=false&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=venom&height=400&color=color=0:EEFF0%200,100:a82da8&text=WELCOME!&fontSize=80&animation=twinkling&reversal=false&theme=tokyonight&textBg=true&)
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
